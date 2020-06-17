@@ -1,3 +1,7 @@
+
+
+
+
 ### Mission
 Community Unity Arts encourages creative expression to highlight the importance of human connection.
 

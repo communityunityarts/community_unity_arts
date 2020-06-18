@@ -19,7 +19,7 @@ Community unity through art is an idea, together we are action! We are all artis
 We are an art collective and non-profit organization that hosts free, public events in Madison, Wisconsin. We work with our community to help bring various visions to light, and focus on outreach to encourage diverse participation within the communities we serve.
 
 ### History
-The opensource community has guided my way of life over the last decade(s). The connection people willing to make to complete strangers help solve a problem is amazing. This connection has taught me a lot and educated me in the duty of giving back. This way of working togehter has influenced me with Community Unity Arts to bring that same connection and community, but we just changed the medium!
+The opensource community has guided my way of life over the last decade(s). The connection people arewilling to make to complete strangers & to help them solve a problem is amazing. This connection has taught me a lot and educated me with giving back to my local community. This way of working togehter has influenced me & us with Community Unity Arts, to bring that same connection and community, but we just changed the medium!
 
 So if you are reading this, and wondering why this website is so generic, basic, simple. Its because its happily freely hosted & created from scratch. The website will constantly be evolving just as our organization does. If you want to particiapate and help out, and the tech side, reach out to us. If you want to collaborate on some community created are, please do the same. We need everyone to participate.
 

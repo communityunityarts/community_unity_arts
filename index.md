@@ -1,6 +1,7 @@
 
 
 
+![Community Unity Arts](var/CUA_full_logo_black.jpg?raw=true "Title")
 
 ### Mission
 Community Unity Arts encourages creative expression to highlight the importance of human connection.

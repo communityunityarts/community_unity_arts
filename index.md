@@ -24,4 +24,4 @@ The opensource community has guided my way of life over the last decade(s). The 
 So if you are reading this, and wondering why this website is so generic, basic, simple. Its because its happily freely hosted & created from scratch. The website will constantly be evolving just as our organization does. If you want to particiapate and help out, and the tech side, reach out to us. If you want to collaborate on some community created are, please do the same. We need everyone to participate.
 
 ### Contact
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfopzrd5SI7qSTbjiWim2HGXnaEGKlH82dHwORqAcGEH2VmqQ/viewform?embedded=true" width="290" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfopzrd5SI7qSTbjiWim2HGXnaEGKlH82dHwORqAcGEH2VmqQ/viewform?embedded=true" width="100%" height="800px" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

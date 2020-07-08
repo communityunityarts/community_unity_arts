@@ -12,6 +12,9 @@ This was a treasured event, and this idea of hosting one of our own, is the cata
 
 in 2019 we also participated in the 30th aniversary a clay in Milwaukee, Wisconsin. More info coming.
 
+![claystommp](../../var/media/feet01.jpg?raw=true "claystomp")
+<!-- ![claystomp](https://github.com/communityunityarts/community_unity_arts/blob/master/var/media/feet01.jpg?raw=true "claystomp") -->
+
 #### Workshops
 
 We always want art to be free. And to help offset our costs, we offer workshops for people who can afford to do so, many classes have sliding scales. And these workshops are direct close experinces with man talented artists. Its a great way to learn a new skill, gain new friends, and in the process help others down the road have art offered to them for free. More info coming.

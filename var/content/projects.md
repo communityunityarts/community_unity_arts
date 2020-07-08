@@ -7,13 +7,14 @@ This was our introduction to the neighborhood of Darbo/Worthingon in Madison, Wi
 #### Murals
 We have reached out to many local painters and have helped shape the community by creating art in large open spaces, where old fences or buildings were looking dingy & we helped liven up the area. More info coming.
 
+![mural01](../../var/media/mural02.jpg?raw=true "mural")
+
 #### Claystomp
 This was a treasured event, and this idea of hosting one of our own, is the catalyst for starting Community Unity Arts. We conducted our first one in 2018 in Madison, Wisconsion. We had over 300 total strangers show up, to mix clay with their feet! We mixed over 2 tons of clay. We were able to share this clay with local community groups, non-profits and local artists.
 
 in 2019 we also participated in the 30th aniversary a clay in Milwaukee, Wisconsin. More info coming.
 
 ![claystommp](../../var/media/feet01.jpg?raw=true "claystomp")
-<!-- ![claystomp](https://github.com/communityunityarts/community_unity_arts/blob/master/var/media/feet01.jpg?raw=true "claystomp") -->
 
 #### Workshops
 

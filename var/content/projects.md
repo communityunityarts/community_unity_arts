@@ -3,6 +3,7 @@
 #### Art in the park
 
 This was our introduction to the neighborhood of Darbo/Worthingon in Madison, Wisconsin in 2017. We decided to show up to this park every week for an entire summer and offered free particapatory community created are, with who ever wanted to participate. We later connected up with local groups to offer more events. We learned how truly important community is, and this project really inspired the heart that is at the core of Community Unity Arts. More info coming.
+![worthington-29](../../var/media/worthington-29.jpg?raw=true "worthington-29")
 
 #### Murals
 We have reached out to many local painters and have helped shape the community by creating art in large open spaces, where old fences or buildings were looking dingy & we helped liven up the area. More info coming.
@@ -22,5 +23,7 @@ We always want art to be free. And to help offset our costs, we offer workshops 
 
 #### whoami
 A youth project in 2019 that explored identity through differnt art mediums, for youths in the Madision, Wisconsin area. More info coming.
+
+![facejugs](../../var/media/face_jugs.jpg?raw=true "facejugs")
 
 NOTE: If you are reading this & wondering where is all the content; please come help write content with us! Fill out the form on the main page & please contact us. 

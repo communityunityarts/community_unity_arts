@@ -26,4 +26,9 @@ A youth project in 2019 that explored identity through differnt art mediums, for
 
 ![facejugs](../../var/media/face_jugs.jpg?raw=true "facejugs")
 
-NOTE: If you are reading this & wondering where is all the content; please come help write content with us! Fill out the form on the main page & please contact us. 
+#### the impossible dreamers
+A project to memorialize on of the coFounders of Community Unity Arts.
+
+[the impossible dreamers](../../var/content/the_impossible_dreamers.md)
+
+NOTE: If you are reading this & wondering where is all the content; please come help write content with us! Fill out the form on the main page & please contact us.

@@ -1,4 +1,4 @@
-The impossible dreamers combined one day. After an idea sparked inside of them all. Community Unity Arts was born.
+The impossible dreamers sparked an idea together & Community Unity Arts was born.
 ![coFounders01](../../var/media/coFounders01.jpg?raw=true "coFounders01")
 
 Carl Landsness a mischief maker, a wise elder, a friend, an inspirer...
